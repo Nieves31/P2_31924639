@@ -1,5 +1,7 @@
 # P2_31924639
 
+Git inicializar
+gitadd
 <!DOCTYPE HTML>
  <html Lang="en">
   <head>
@@ -12,3 +14,6 @@
     </script>
     </body>
     </html>
+git remote add origin URLrepositorio.git
+git push origen master
+
