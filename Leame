@@ -1,9 +1,0 @@
-const  expreso  =  requerir ( 'expreso' )
-
- aplicación  const =  express ( )
-
-aplicación _ obtener ( '/' ,  función ( req ,  res )  {
-    res . enviar (  "Fredeny Nieves CI 31924639 seccion 3" )
-} )
-
-aplicación _ escuchar ( 3000 )
